@@ -1,2 +1,2 @@
 # SmartPrinter
-code for smart printer
+SO Intermec Smart Printer Deployment Project
